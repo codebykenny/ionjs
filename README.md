@@ -1,2 +1,2 @@
 # ionjs
-## io-js Framework
+## Very light MVC Framework for io-js 
